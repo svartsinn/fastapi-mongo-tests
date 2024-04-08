@@ -17,6 +17,15 @@ The application implements JWT authorization.
 
 - Python => 3.10
 
+### Prerequisite
+
+To run successfully, there must be a config file in project root.
+
+```bash
+DATABASE_URL=mongodb://database:27017/planner
+SECRET_KEY=<HASH_FOR_DB>
+```
+
 ### Quick start
 
 ```bash
