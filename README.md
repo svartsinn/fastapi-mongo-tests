@@ -13,10 +13,6 @@ Simple planning app for autotesting. User can perform the following operations:
 
 The application implements JWT authorization.
 
-- FastAPI
-- Pydantic
-- MongoDB
-
 ### Requirements
 
 - Python => 3.10
